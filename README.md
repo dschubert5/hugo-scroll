@@ -11,31 +11,23 @@ Clean, responsive, single-page [Hugo](https://gohugo.io/) website theme.
 Promo image which may be a bit outdated:<br/>
 ![Screenshot Hugo Scroll Theme](https://raw.githubusercontent.com/zjedi/hugo-scroll/master/images/tn.png)
 
-## ⭐ Feature highlights
+## 🍎🥗🌯 Gesunde Rezepte zum nachkochen
 
-- Responsive to screen size/shape
-- SEO friendly
-- Customizable
-- Video cover
-- [Fork Awesome Icons][fork-awesome-icons] out of the box
-- Header logo
-- Visual guards to guarantee readability
-- External links
-- JS/CSS Assets optimized (Minification, Fingerprinting, pipeline-processed
-into single file)
-- git info in footer (opt-in)
+- Gemüse Lasagne
+- Protein Wraps
+- Low Carb Hamburger
+- Low Calorie Noodle Soup
+- Gemüse Auflauf
+- Obstsalat
 
-## 🔑 Installation
 
-You need to install Hugo extended version.
-If you already have a Hugo site on your machine, you can simply add this theme via
+## 🤸🏽‍♂️🏋🏽‍♂️ Workouts
 
-```cli
-git submodule add https://github.com/zjedi/hugo-scroll.git themes/hugo-scroll
-```
-
-Then, adjust the `config.toml` as detailed below & in the file comments.
-
+- BEINE
+- ARME
+- RÜCKEN
+- PO
+- BAUCH
 ### Playing around with our example site
 
 If you simply want to check out the `exampleSite`, you can run
